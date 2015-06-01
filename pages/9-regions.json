@@ -1,12 +1,8 @@
 [{
-	"x":29,
-	"y":558,
-	"width":117,
-	"height":14,
-	"class":"link",
-	"data" : 
-		{
-			"url": "http://www.celineinvegas.com"
-		}
+	"x":22,
+	"y":568,
+	"width":130,
+	"height":12,
+	"class":"zoom"
 }
 ]
